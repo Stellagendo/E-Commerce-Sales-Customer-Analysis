@@ -1,4 +1,3 @@
-
 # E-Commerce Sales & Customer Analysis
 
 ## Project Overview
@@ -26,7 +25,6 @@ This project addresses the need to organize and analyse e-commerce data to ident
 -Examine purchasing patterns across morning and evening periods.
 -Explore average purchase prices across relevant customer segments.
 -Identify customer technology preferences based on browser and operating system usage.
--Present findings through an interactive Power BI dashboard.
 
 ## Tools & Technologies
 
@@ -41,7 +39,9 @@ This project addresses the need to organize and analyse e-commerce data to ident
 - Total Purchases
 - Average Purchase Price
 
-## Dashboard Pages & Analysis
+## Analysis Areas
+
+#### The project is organized into two analytical dashboard pages
 
 ### 1. E-Commerce Performance Overview
 
@@ -54,42 +54,21 @@ Provides a high-level summary of business performance and key customer purchasin
 - Customer Distribution by Language.
 
 **Business Focus:** Understanding overall business performance and identifying important revenue and customer activity patterns.
+
 ## Dashboard Preview
 ![E-Commerce Performance Overview](E-Commerce-Performance-Dashboard.png)
 
 
 ### 2. Customer & Behaviour Analysis
 
-Provides a deeper exploration of customer characteristics, purchasing behaviour, spending patterns, and technology preferences.
+#### Provides a deeper exploration of customer characteristics, purchasing behaviour, spending patterns, and technology preferences.
 
-**Customer Segmentation**
-- Customer Count by Language.
+This page explores customer characteristics, purchasing behaviour and technology preferences by analysing customer distribution across languages, occupations and email providers, identifying morning and evening purchasing patterns, examining average spending across customer segments and understanding browser and operating system usage.
 
-**Occupation Analysis**
-- Top 10 Jobs by Customer Count.
-
-**Email Analysis**
-- Customer Count by Email Provider.
-
-**Purchase Behaviour**
-- Purchases by AM/PM.
-
-**Spending Analysis**
-- Average Purchase Price by relevant customer segments.
-
-**Technology Insights**
-- Customer Count by Browser.
-- Customer Count by Operating System.
-- Browser and Operating System Analysis.
 
 ### Dashboard Preview
 
 ![Customer & Behaviour Analysis](Customer-Behaviour-Dashboard.png)
-
-
-
-
-
 
 
 ## Key Business Questions
@@ -129,28 +108,7 @@ This project demonstrates the application of data analysis and visualization tec
 
 Through an interactive Power BI dashboard, the analysis brings together business performance, customer segmentation, purchasing behaviour, and technology insights to support informed business decision-making.
 
-## Project Structure
 
-```text
-E-Commerce-Sales-Customer-Analysis/
-│
-├── Dashboard/
-│   └── E-Commerce Sales & Customer Analysis.pbix
-│
-├── Dataset/
-│   └── dataset.csv
-│
-├── Screenshots/
-│
-├── Preview/
-│   ├── page1-overview.png
-│   └── page2-customer-analysis.png
-│
-└── README.md
 ```
-
----
-
-**Tools:** Power BI | Power Query | DAX | Data Analysis | Data Visualization
 
 *Turning data into meaningful business insights.*
