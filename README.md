@@ -84,7 +84,7 @@ Provides a deeper exploration of customer characteristics, purchasing behaviour,
 
 ### Dashboard Preview
 
-(Customer-Behaviour-Dashboard.png)
+![Customer & Behaviour Analysis](Customer-Behaviour-Dashboard.png)
 
 
 
