@@ -108,7 +108,13 @@ This project demonstrates the application of data analysis and visualization tec
 
 Through an interactive Power BI dashboard, the analysis brings together business performance, customer segmentation, purchasing behaviour, and technology insights to support informed business decision-making.
 
+## Project Files
 
-```
+### Power BI Dashboard
+[Download Power BI Dashboard (.pbix)](YOUR_DASHBOARD_FILENAME.pbix)
+
+### Dataset
+[Download Original Dataset](YOUR_DATASET_FILENAME.xlsx)
+
 
 *Turning data into meaningful business insights.*
