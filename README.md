@@ -114,7 +114,7 @@ Through an interactive Power BI dashboard, the analysis brings together business
 [Download Power BI Dashboard (.pbix)](E-Commerce-Sales-&-Customer-Analysis.pbix)
 
 ### Dataset
-[Download Original Dataset](YOUR_DATASET_FILENAME.xlsx)
+[Download Original Dataset](Ecommerce-Purchases)
 
 
 *Turning data into meaningful business insights.*
