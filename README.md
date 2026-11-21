@@ -55,7 +55,7 @@ Provides a high-level summary of business performance and key customer purchasin
 
 **Business Focus:** Understanding overall business performance and identifying important revenue and customer activity patterns.
 ## Dashboard Preview
-![E-Commerce Performance Overview](Preview/page1-overview.png)
+![E-Commerce Performance Overview](E-Commerce-Performance-Dashboard.png)
 
 
 ### 2. Customer & Behaviour Analysis
